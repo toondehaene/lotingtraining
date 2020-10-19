@@ -1,6 +1,6 @@
 import random
 
-names = ["Dries", "Raf", "Marijke", "Ward", "Sander", "Lieve", "Li", "Arnout", "Thomas", "Toon", "Irina"]
+names = ["Dries", "Raf", "Marijke", "Ward", "Sander", "Lieve", "Li", "Arnout", "Thomas", "Toon", "Irina", "Musa"]
 # names = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k']
 namescpy = names.copy()
 result = []
